@@ -1,5 +1,5 @@
 # Weather data scraper
-A Python scraper deployed to AWS Lambda that hits the Weather Underground API for forecast data.
+A Python scraper deployed to AWS Lambda that hits the Weather Underground API for North Texas forecast data.
 ## Weather Underground API Discontinued ##
 ```
 To improve our services and enhance our relationship
