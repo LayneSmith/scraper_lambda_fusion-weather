@@ -8,6 +8,9 @@ weather API keys as part of our program.
 ```
 *Still working as of 2/7/2019*
 
+## .env
+An .env file with AWS credentials is required.
+
 ## Instructions for changes
 * `pipenv shell` to get us going
 * Make changes
